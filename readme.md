@@ -1,6 +1,6 @@
 # S.O.L.I.D
 
-Some examples of S.O.L.I.D aimed at human beings rather than android.
+Some examples of S.O.L.I.D aimed at human beings rather than android - related blog [here](http://wp.me/p7KsYe-8Z).
 
 The code folders provide examples of before a refactor to the principle, and after. The code builds on each example, so it's best to read them in the order below.
 
